@@ -6,13 +6,10 @@
 #   weight: 5
 
 - name: Git
-  weight: 5
+  weight: 3
 
 - name: Bash
-  weight: 3
-
-- name: Scrum
-  weight: 3
+  weight: 4
 
 - name: Travis CI
   weight: 1
@@ -24,7 +21,7 @@
   weight: 2
 
 - name: npm
-  weight: 2
+  weight: 3
 
 - name: gulp
   weight: 4
